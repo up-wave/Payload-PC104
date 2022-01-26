@@ -10,6 +10,10 @@ The KiCAD's schematic includes all the necessary pins assignments to speedup the
 
 ![](img/KiCAD_3D_view.png)
 
+# Reference
+
+The PC/104 specification is available [here](https://pc104.org/hardware-specifications/pc104/)
+
 # Credits
 
 This design had as a base the work of [spel-uchile's work](https://github.com/spel-uchile/Payload-PC104) and expands upon it
